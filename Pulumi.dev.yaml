@@ -1,0 +1,4 @@
+config:
+  my-k8s-app:namespace: default
+  my-k8s-app:replicas: "1"
+  my-k8s-app:worldvar: Cruel
